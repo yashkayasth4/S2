@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The sort1 program takes slightly less time when running on sorted text compared to sort3. This observation suggests that sort1 is likely implementing the Bubble Sort algorithm.
+
+sort2 uses: Merge Sort
+
+How do you know?: The sort2 program is the fastest among all the programs. Considering its superior performance, it is likely that sort2 implements the Merge Sort algorithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: The sort3 program takes a significant amount of time even when running on sorted text, compared to sort1. This behavior indicates that sort3 is likely implementing the Selection Sort algorithm.

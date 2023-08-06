@@ -1,0 +1,12 @@
+1. Import necessary libraries (stdio.h and cs50.h)
+2. Declare a variable for the height of the pyramid
+3. Prompt the user for the pyramid's height using the get_int function
+4. Repeat until the user provides a valid input:
+     a. Check if the input is a positive integer between 1 and 8 (inclusive)
+     b. If not, prompt the user again for a valid input
+5. Print the left-aligned pyramid:
+     a. For each row from 1 to the height:
+         i. Print spaces (height - row) times
+         ii. Print hashes (row) times
+         iii. Print a new line
+6. End the program
